@@ -40,5 +40,3 @@ Apasionado por el desarrollo de **software práctico y escalable**, con foco en 
 
 ### ⚡ **Mi Filosofía**  
 Creo que **la programación debería ser accesible** para todos, no solo como herramienta técnica, sino como forma de desarrollar pensamiento lógico y creativo.  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandHK23&show_icons=true&theme=default&hide_border=true)](https://github.com/BrandHK23)  
